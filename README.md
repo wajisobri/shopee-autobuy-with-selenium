@@ -54,6 +54,7 @@ Setup Login Configuration in file *login.py*. Fill in the variables according to
     
     // Login with Cookies
     cookie='YOUR_COOKIES_HERE' // cookies value from SPC_EC
+![Example of SPC_EC Cookie](https://raw.githubusercontent.com/wajisobri/shopee-autobuy-with-selenium/main/Cookies-SPC_EC-Value-Example.png)
 
 Run Program
 
@@ -67,3 +68,4 @@ Run Program
 **Find** and **Click** `https://shopee.co.id/api/v2/item/get itemid=xxx&shopid=xxx`
 **Click** on tab `Cookies` and **Find** `SPC_EC`
 **Copy** value and **Place** on `login.py`
+![enter image description here](https://raw.githubusercontent.com/wajisobri/shopee-autobuy-with-selenium/main/How-To-Get-Cookie-Value.png)
