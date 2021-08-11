@@ -1,0 +1,5 @@
+email="wajisobri3@gmail.com"
+password="Kijimat007"
+phone="0895618666040"
+
+cookie = 'S0hxN2o2UGVLRzJzTk9zSdMR8r2nvs55cfixe9IBwmBAiWv3umtXa7oJx2XnZ17auD/uIlQfiOtlcLwjlOsy2TLe2ySyUiKx9Vi4mrlq4hQGy/enpNvcnEmBz+HExpF3A9ujh8AkChsu1O4NplvBMLjcybNDo9S/80c8Jnyq3dE='
