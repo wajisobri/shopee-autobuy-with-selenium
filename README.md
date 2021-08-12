@@ -62,10 +62,10 @@ Run Program
 
 ## How to Get Cookies Value
 
-**Open** Google Chrome and go to Shopee (make sure you have **logged in**)
-**Open** Product Link and **Press** `Ctrl+Shift+I`
-**Click** on tab `Network` and **Refresh** Browser
-**Find** and **Click** `https://shopee.co.id/api/v2/item/get itemid=xxx&shopid=xxx`
-**Click** on tab `Cookies` and **Find** `SPC_EC`
-**Copy** value and **Place** on `login.py`
+ 1. **Open** Google Chrome and go to Shopee (make sure you have **logged in**)
+ 2. **Open** Product Link and **Press** `Ctrl+Shift+I`
+ 3. **Click** on tab `Network` and **Refresh** Browser
+ 4. **Find** and **Click** `https://shopee.co.id/api/v2/item/get itemid=xxx&shopid=xxx`
+ 5. **Click** on tab `Cookies` and **Find** `SPC_EC`
+ 6. **Copy** value and **Place** on `login.py`
 ![enter image description here](https://raw.githubusercontent.com/wajisobri/shopee-autobuy-with-selenium/main/How-To-Get-Cookie-Value.png)
